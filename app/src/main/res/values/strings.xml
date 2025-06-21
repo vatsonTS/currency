@@ -1,0 +1,28 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="title_login">Вход</string>
+    <string name="hint_username">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="button_login">Войти</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_language">Язык</string>
+    <string name="settings_theme">Тема</string>
+    <string name="lang_title">Выберите язык</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_english">English</string>
+    <string name="theme_title">Тема приложения</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="from_currency_prompt">Из</string>
+    <string name="to_currency_prompt">В</string>
+    <string name="hint_amount">Сумма</string>
+    <string name="button_convert">Конвертировать</string>
+    <string name="result_text">Результат: —</string>
+    <string name="no_internet_local">Нет интернета — локальный список.</string>
+    <string name="error_loading">Ошибка: %1$s</string>
+    <string name="error_invalid_amount">Введите корректную сумму</string>
+    <string name="button_start">Начать</string>
+    <string name="welcome_text">Добро пожаловать в Currency!</string>
+
+</resources>

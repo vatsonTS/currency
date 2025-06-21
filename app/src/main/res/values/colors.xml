@@ -1,0 +1,31 @@
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="surface_variant_light">#F6F6F6</color>
+    <color name="outline_light">#CCCCCC</color>
+
+    <color name="on_surface_light">#FF000000</color>
+    <color name="on_primary_light">#FFFFFFFF</color>
+
+    <color name="surface_dark">#121212</color>
+    <color name="surface_variant_dark">#1E1E1E</color>
+    <color name="outline_dark">#666666</color>
+    <color name="on_surface_dark">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#CCCCCC</color>
+    <color name="gray_dark">#666666</color>
+    <color name="surface">        @color/surface_light       </color>
+    <color name="surface_variant">@color/surface_variant_light</color>
+    <color name="outline">        @color/outline_light       </color>
+    <color name="on_surface">     @color/on_surface_light    </color>
+    <color name="on_surface_variant">@color/on_surface_light </color>
+
+    <!-- Вторичный on для темной темы (будем переопределять) -->
+    <color name="on_secondary">@color/on_surface_light</color>
+</resources>
